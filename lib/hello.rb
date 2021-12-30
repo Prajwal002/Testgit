@@ -1,3 +1,4 @@
+puts "Hello, #{ARGV.first}!"
 # Default is World
 # Author: Jim Weirich
 name = ARGV.first || "World"
